@@ -1,0 +1,5 @@
+add_executable(dz1_task1_swap task1_swap.c)
+add_executable(dz1_task2_reverse_array task2_reverse_array.c)
+add_executable(dz1_task3_transpose_matrix task3_transpose_matrix.c)
+add_executable(dz1_task4_reverse_list task4_reverse_list.c)
+
