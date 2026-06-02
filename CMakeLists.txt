@@ -15,4 +15,4 @@ add_subdirectory(dz2)
 add_subdirectory(dz3)
 add_subdirectory(dz4)
 add_subdirectory(dz5)
-
+add_subdirectory(dz7)
